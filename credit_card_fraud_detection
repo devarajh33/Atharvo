@@ -72,3 +72,29 @@ Deploy the model to score transactions in real-time.
 Monitoring:
 ----------
 Continuously monitor the model performance and retrain it as necessary.
+
+
+References:-
+------------
+
+Anti-Money Laundering by Group-Aware Deep Graph Learning (TKDE 2023)
+
+Dawei Cheng, Yujia Ye, Sheng Xiang, Zhenwei Ma, Ying Zhang, Changjun Jiang
+[Paper]
+Semi-supervised Credit Card Fraud Detection via Attribute-driven Graph Representation (AAAI 2023)
+
+Sheng Xiang, Mingzhi Zhu, Dawei Cheng, Enxia Li, Ruihui Zhao, Yi Ouyang, Ling Chen, Yefeng Zheng
+[Paper]
+[Code]
+A Framework for Detecting Frauds from Extremely Few Labels (WSDM 2023)
+
+Ya-Lin Zhang, Yi-Xuan Sun, Fangfang Fan, Meng Li, Yeyu Zhao, Wei Wang, Longfei Li, Jun Zhou, Jinghua Feng
+[Paper]
+Label Information Enhanced Fraud Detection against Low Homophily in Graphs (WWW 2023)
+
+Yuchen Wang, Jinghui Zhang, Zhengjie Huang, Weibin Li, Shikun Feng, Ziheng Ma, Yu Sun, Dianhai Yu, Fang Dong, Jiahui Jin, Beilun Wang, Junzhou Luo (WWW 2023)
+[Paper]
+BERT4ETH: A Pre-trained Transformer for Ethereum Fraud Detection (WWW 2023)
+
+Sihao Hu, Zhen Zhang, Bingqiao Luo, Shengliang Lu, Bingsheng He, Ling Liu
+[Paper]
